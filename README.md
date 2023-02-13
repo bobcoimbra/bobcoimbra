@@ -18,8 +18,8 @@ Atuo na área de testes de software desde o início de 2022 como Jr. QA Engineer
 
 <div>
 <a href="https://github.com/bobcoimbra">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobcoimbra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobcoimbra&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bobcoimbra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobcoimbra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
