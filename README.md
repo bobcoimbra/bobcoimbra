@@ -2,10 +2,10 @@
 <img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
 # Hey! Eu sou o Alexandre!
-##  QA Engineer Jr
+##  QA Engineer
 
 
-Atuo na área de testes de software desde o início de 2022 como Jr. QA Engineer pela [Squadra Digital](https://www.squadra.com.br/).
+Atuo na área de testes de software desde o início de 2022
 
 
 - 🔭 Atualmente trabalho com Cypress, Javascript, Node JS and Postman
